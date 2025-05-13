@@ -3112,7 +3112,7 @@ body.is-menu-visible #menu .close {
 .video-wrapper {
     width: 560px;
     /* Mantén el tamaño original del video */
-    height: 315px;
+    height: 100%;
     /* Mantén la altura original */
 }
 
