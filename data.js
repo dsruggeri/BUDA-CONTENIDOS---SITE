@@ -20,11 +20,11 @@ const proyectosData = [{
         url: "naturalezamuerta.html"
     },
     {
-        titulo: "Las Herramientas de la soledad",
-        subtitulo: "Una película de Gaspar Gómez",
-        generos: "Largometraje. Ficción. Drama psicológico.",
-        imagen: "/images/thumbLHDLS.png",
-        url: "lasherramientasdelasoledad.html"
+        titulo: "Prenderse fuego y desaparecer",
+        subtitulo: "Una historia de Kinder Videla Mengele",
+        generos: "Largometraje Documental. Punk. Proyecto en desarrollo.",
+        imagen: "/images/thumbKVM.png",
+        url: "prendersefuegoydesaparecer.html"
     },
     {
         titulo: "Las Herramientas de la soledad",
