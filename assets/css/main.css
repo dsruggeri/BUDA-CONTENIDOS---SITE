@@ -249,7 +249,7 @@ a {
 
 a:hover {
     border-bottom-color: transparent;
-    color: #f2849e !important;
+    color: #ffffff !important;
 }
 
 strong,
@@ -1667,7 +1667,7 @@ header p {
 }
 
 .icon.style2:hover {
-    color: #f2849e;
+    color: #ffffff;
     border-color: #f2849e;
 }
 
