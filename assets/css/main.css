@@ -2514,35 +2514,35 @@ button:disabled,
 }
 
 .tiles article.style1>.image:before {
-    background-color: #5b9b97;
+    background-color: rgb(91, 155, 151);
 }
 
 .tiles article.style2>.image:before {
-    background-color: #cbd2a0;
+    background-color: rgb(203, 210, 160);
 }
 
 .tiles article.style3>.image:before {
-    background-color: #963936;
+    background-color: rgb(150, 57, 54);
 }
 
 .tiles article.style4>.image:before {
-    background-color: #b79059;
+    background-color: rgb(183, 144, 89);
 }
 
 .tiles article.style5>.image:before {
-    background-color: #6d6198;
+    background-color: rgb(109, 97, 152);
 }
 
 .tiles article.style6>.image:before {
-    background-color: #80aec3;
+    background-color: rgb(128, 174, 195);
 }
 
 .tiles article.style7>.image:before {
-    background-color: #d39a50;
+    background-color: rgb(211, 154, 80);
 }
 
 .tiles article.style8>.image:before {
-    background-color: #d4c78e;
+    background-color: rgb(212, 199, 142);
 }
 
 body:not(.is-touch) .tiles article:hover>.image {

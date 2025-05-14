@@ -8,9 +8,16 @@ document.addEventListener('DOMContentLoaded', () => {
     function createCard(data, index) {
 
         let estilo = index;
-        if (estilo > 7) {
-            estilo = 1;
-        } else {
+        if (estilo > 7 && estilo < 15) {
+            estilo = estilo - 7;
+        }
+        if (estilo >= 15 && estilo < 23) {
+            estilo = estilo - 14;
+        }
+        if (estilo >= 23 && estilo < 31) {
+            estilo = estilo - 23;
+        } 
+        else {
             estilo = estilo + 1;
         };
 
